@@ -32,7 +32,7 @@ Example:
 ### Windows UWP
 
 - Support for Windows UWP now.
-- The Windows UWP platform doesn't allow applications to read the content of the clipboard. Using the `paste` method will return an error.
+- The Windows UWP platform allows applications to read the content of the clipboard. You can Using the `paste` method.
 
 ### Android
 
